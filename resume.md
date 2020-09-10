@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Résumé
+title: 恢复
 subtitle: An awesome person
 ---
 
