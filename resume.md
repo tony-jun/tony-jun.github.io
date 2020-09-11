@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resume
-subtitle: An awesome person
+title: Tony
+subtitle: An interesting person
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
@@ -61,4 +61,3 @@ Title - **中国的H.U.C红客联盟** <span style="float: right; ">Duration</sp
 - PHP   
 - CSS
 - Java
-.

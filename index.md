@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 你好
+title: Hello
 subtitle: My name is Sweetheart Superman
 sitemap:
-  priority: 0.9
+priority: 0.9
 ---
 
 <img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
