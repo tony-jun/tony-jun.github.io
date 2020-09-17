@@ -4,7 +4,7 @@ description: >
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "git@github.com:tony-jun/tony-jun.github.io.git" # the base hostname & protocol for your site
+url: "https://github.com/tony-jun.github.io.git" # the base hostname & protocol for your site
 
 author:
   fullname: tony-jun
